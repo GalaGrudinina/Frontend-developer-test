@@ -12,6 +12,7 @@
 ```
 npm install
 ```
+## Change path
 ```
 cd pathToProject
 ```
