@@ -1,5 +1,5 @@
-Запуск проекта
-Option I
+## Запуск проекта
+## Option I
 1. Скопируйте URL- репозитория проекта
 2. Перейдите на сайт https://codesandbox.io/
 3. В правом верхнем углу выберете «Create Sandbox”
@@ -7,7 +7,7 @@ Option I
 5. Вставьте ссылку в окно
 6. Подтвердите «Import and Fork”
 
-Option II
+## Option II
 ## Project setup
 ```
 npm install
